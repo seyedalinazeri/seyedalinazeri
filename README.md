@@ -1,0 +1,6 @@
+-  Hi, I’m @seyedalinazeri
+-  I’m fond of backend programming
+-  I’m currently learning node.js and asp .net core mvc
+-  How to reach me :
+-  Email : cv.seyedalinazeri@gmail.com
+-  Telegram id : mrrobotid
