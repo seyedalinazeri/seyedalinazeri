@@ -3,4 +3,4 @@
 -  I’m currently learning node.js and asp .net core mvc
 -  How to reach me :
 -  Email : cv.seyedalinazeri@gmail.com
--  Telegram id : mrrobotid
+-  Telegram id :  https://t.me/mrrobotid
